@@ -1,8 +1,11 @@
 ## Olá, meu nome é <strong>Flávio "Clark" Alexandre!</strong>
 
-> Sou um desenvolvedor Front-end Freelancer e curso Desenvolvimento de Sistemas.
+> Sou um desenvolvedor Front-end Freelancer e curso Desenvolvimento de Sistemas. Amo tecnologia, arte e ciência!
 
-🔭 Atualmente desenvolvendo projetos em Typescript, ReactJs e Python!
+📚 Atualmente desenvolvendo projetos em Typescript, ReactJs e Python.
+
+💻 <a href="flavioalexandredev.com">Acesse meu portfólio digital!</a>
+
 
 ----
 
