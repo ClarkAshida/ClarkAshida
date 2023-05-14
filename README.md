@@ -4,7 +4,7 @@
 
 #### 📚 Atualmente desenvolvendo projetos em Typescript, ReactJs e Python.
 
-#### 💻 [acesse meu portfólio digital!](flavioalexandredev.com)
+#### 💻 [acesse meu portfólio digital!](https://flavioalexandredev.com)
 
 
 ----
