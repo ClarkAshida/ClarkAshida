@@ -2,7 +2,7 @@
 
 > Sou um desenvolvedor Front-end Freelancer e curso Desenvolvimento de Sistemas. Amo tecnologia, arte e ciência!
 
-#### 📚 Atualmente desenvolvendo projetos em Typescript, ReactJs e Python.
+#### 📚 Atualmente estudando desenvolvimento web e desktop!
 
 #### <a href="https://flavioalexandredev.com" target="_blank" rel="noopener">💻 Acesse meu portfólio digital!</a>
 
@@ -17,3 +17,4 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
