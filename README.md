@@ -4,7 +4,7 @@
 
 #### 📚 Atualmente estudando desenvolvimento web!
 
-#### <h3 href="https://flavioalexandredev.com" target="_blank" rel="noopener">💻 Acesse meu portfólio digital!</h3>
+#### <h3><a href="https://flavioalexandredev.com" target="_blank" rel="noopener">💻 Acesse meu portfólio digital!</a><h3>
 
 
 ----
