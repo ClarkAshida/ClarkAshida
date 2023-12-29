@@ -2,7 +2,7 @@
 
 > Sou um desenvolvedor Freelancer e curso Desenvolvimento de Sistemas. Amo tecnologia, arte e ciência!
 
-#### 📚 Atualmente estudando desenvolvimento web!
+#### 📚 Atualmente estudando desenvolvimento WEB com Python e Javascript!
 
 #### <h3><a href="https://flavioalexandredev.com" target="_blank" rel="noopener">💻 Acesse meu portfólio digital!</a><h3>
 
