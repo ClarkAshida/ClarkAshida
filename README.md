@@ -4,9 +4,6 @@
 
 #### 📚 Atualmente estudando desenvolvimento WEB com Python e Javascript!
 
-#### <h3><a href="https://flavioalexandredev.com" target="_blank" rel="noopener">💻 Acesse meu portfólio digital!</a><h3>
-
-
 ----
 
 ## Linguagens
