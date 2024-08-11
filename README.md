@@ -1,10 +1,13 @@
 ## Olá, meu nome é <strong>Flávio "Clark" Alexandre!</strong>
 
-> Desenvolvedor bolsista no Senac Labs. Amo ciência, tecnologia e arte!
+- 💻  Desenvolvedor bolsista no Senac Labs.
+- 📚 Cursando o Superior em Sistemas para Internet.
+- 🎓 Formado como Técnico em Desenvolvimento de Sistemas.
+- 🚀 Estudando programação em Typescript, Python e Java.
 
-#### 📚 Cursando o Superior em Sistemas para Internet. Técnico em Desenvolvimento de Sistemas.
+## Onde me encontrar
 
-----
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="www.linkedin.com/in/flávio-alexandre-dev">
 
 ## Linguagens
 
