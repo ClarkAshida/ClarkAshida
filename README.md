@@ -1,8 +1,8 @@
 ## Olá, meu nome é <strong>Flávio "Clark" Alexandre!</strong>
 
-> Sou um desenvolvedor Freelancer e curso Desenvolvimento de Sistemas. Amo tecnologia, arte e ciência!
+> Desenvolvedor bolsista no Senac Labs. Amo ciência, tecnologia e arte!
 
-#### 📚 Atualmente estudando desenvolvimento WEB com Python e Javascript!
+#### 📚 Cursando o Superior em Sistemas para Internet. Técnico em Desenvolvimento de Sistemas.
 
 ----
 
@@ -19,9 +19,3 @@
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-
-
-## Banco de dados
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
