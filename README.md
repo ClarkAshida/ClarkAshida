@@ -7,8 +7,9 @@
 
 ## Onde me encontrar
 
-<a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fl%C3%A1vio-alexandre-dev/" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/fl%C3%A1vio-alexandre-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
 ## Linguagens
 
