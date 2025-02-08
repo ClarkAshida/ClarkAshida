@@ -1,7 +1,7 @@
 ## Olá, meu nome é <strong>Flávio "Clark" Alexandre!</strong>
 
 - 💻  Desenvolvedor FullStack no Senac Labs | ReactJs | Django | Docker | CI/CD.
-- 📚 Cursando o Superior em Sistemas para Internet.
+- 📚 Bacharel em Tecnologia da Informação na UFRN.
 - 🎓 Formado como Técnico em Desenvolvimento de Sistemas.
 - 🚀 Estudando programação em Typescript, Python e Java.
 
