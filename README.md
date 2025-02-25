@@ -3,7 +3,7 @@
 - 💻  Desenvolvedor FullStack no Senac Labs | ReactJs | Django | Docker | CI/CD.
 - 📚 Bacharel em Tecnologia da Informação na UFRN.
 - 🎓 Formado como Técnico em Desenvolvimento de Sistemas.
-- 🚀 Estudando programação em Typescript, Python e Java.
+- 🚀 Estudando Arquitetura de Microsserviços com SpringBoot, RabbitMQ e Docker!
 
 ## Onde me encontrar
 
