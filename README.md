@@ -1,4 +1,4 @@
-## Olá, meu nome é <strong>Flávio "Clark" Alexandre!</strong>
+## Olá, meu nome é <strong>Flávio Alexandre!</strong>
 
 - 💻  Desenvolvedor Junior no Senac Labs | ReactJs | Django | Typescript | Python.
 - 📚 Cursando o Bacharelado em Tecnologia da Informação na UFRN.
