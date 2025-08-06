@@ -1,9 +1,9 @@
 ## Olá, meu nome é <strong>Flávio Alexandre!</strong>
 
-- 💻  Desenvolvedor Junior no Senac Labs | ReactJs | Django | Typescript | Python.
+- 💻  Desenvolvedor Junior no Senac Labs | ReactJs | Spring Boot | Typescript | Java 17+.
 - 📚 Cursando o Bacharelado em Tecnologia da Informação na UFRN.
 - 🎓 Formado como Técnico em Desenvolvimento de Sistemas no Senac RN.
-- 🚀 Estudando Arquitetura de Microsserviços com Spring Boot, RabbitMQ e AWS!
+- 🚀 Estudando Arquitetura de Microsserviços com Java 17+, Spring Boot e Cloud Computing!
 
 ## Onde me encontrar
 
