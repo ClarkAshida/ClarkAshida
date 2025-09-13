@@ -1,9 +1,9 @@
 ## Olá, meu nome é <strong>Flávio Alexandre!</strong>
 
-- 💻  Desenvolvedor Junior no Senac Labs | ReactJs | Spring Boot | Typescript | Java 17+.
+- 💻  Desenvolvedor Junior no Senac Labs | ReactJs | Spring Boot | Typescript | Java.
 - 📚 Cursando o Bacharelado em Tecnologia da Informação na UFRN.
 - 🎓 Formado como Técnico em Desenvolvimento de Sistemas no Senac RN.
-- 🚀 Estudando Arquitetura de Microsserviços com Java 17+, Spring Boot e Cloud Computing!
+- 🚀 Estudando Arquitetura de Microsserviços com Java, Spring e AWS.
 
 ## Onde me encontrar
 
@@ -13,30 +13,37 @@
 
 ## Linguagens
 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
 </a>
-
-
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 
 ## Frameworks
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" width="36" height="36">
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot"/>
 </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+
 
 ## Ferramentas
 
 <p>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-    <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="36" height="36" alt="RabbitMQ" /></a>
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36" alt="AWS" /></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
+    <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+    <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="36" height="36" alt="RabbitMQ" /></a>
+    <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36" alt="AWS" /></a>
+    <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+    <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
+    <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" width="36" height="36" alt="" /></a>
 </p>
 
+## Estatísticas
+
+<div align="center">
+    <div style="inline-block" id="status">
+        <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClarkAshida&layout=compact&theme=dark&size_weight=0.3&count_weight=0.8">
+        <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ClarkAshida&show_icons=true&theme=dark">    
+    </div>
+</div>
