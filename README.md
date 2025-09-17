@@ -36,11 +36,3 @@
     <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" width="36" height="36" alt="" /></a>
 </p>
 
-## Estatísticas
-
-<div align="center">
-    <div style="inline-block" id="status">
-        <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClarkAshida&layout=compact&theme=dark&size_weight=0.3&count_weight=0.8">
-        <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ClarkAshida&show_icons=true&theme=dark">    
-    </div>
-</div>
