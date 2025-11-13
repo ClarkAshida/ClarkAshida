@@ -1,6 +1,6 @@
 ## Olá, meu nome é <strong>Flávio Alexandre!</strong>
 
-- 💻  Desenvolvedor Web no LANCE Java | Spring Boot | Typescript | ReactJS.
+- 💻  Desenvolvedor Web no LANCE | Java | Spring Boot | Typescript | ReactJS.
 - 📚 Cursando o Bacharelado em Tecnologia da Informação na UFRN.
 - 🎓 Formado como Técnico em Desenvolvimento de Sistemas no Senac RN.
 - 🚀 Estudando Arquitetura de Microsserviços com Java, Spring e AWS.
