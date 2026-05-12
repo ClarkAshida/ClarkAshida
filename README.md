@@ -3,6 +3,7 @@
 - 💻  Desenvolvedor Web | Java | Spring Boot | Typescript | ReactJS | Docker | CI/CD.
 - 📚 Cursando o Bacharelado em Tecnologia da Informação na UFRN.
 - 🎓 Formado como Técnico em Desenvolvimento de Sistemas no Senac RN.
+- ☕ Estudando Java.
 
 ## Onde me encontrar
 
