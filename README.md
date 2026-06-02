@@ -1,6 +1,6 @@
 ## Olá, meu nome é <strong>Flávio Alexandre!</strong>
 
-- 💻  Desenvolvedor Web | Java | Spring Boot | Typescript | ReactJS | Docker | CI/CD.
+- 💻  Desenvolvedor de Software | Java | Spring Boot | Typescript | ReactJS | Docker.
 - 📚 Cursando o Bacharelado em Tecnologia da Informação na UFRN.
 - 🎓 Formado como Técnico em Desenvolvimento de Sistemas no Senac RN.
 - ☕ Estudando Java.
