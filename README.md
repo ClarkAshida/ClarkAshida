@@ -7,14 +7,7 @@
 
 ## Where to find me
 
-<a href="https://www.linkedin.com/in/fl%C3%A1vio-alexandre-dev/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://flavioalexandre.tech" target="_blank">
-  <img src="https://img.shields.io/badge/-flavioalexandre.tech-%231ED48E?style=for-the-badge" alt="flavioalexandre.tech" />
-</a>
-
+<a href="https://www.linkedin.com/in/fl%C3%A1vio-alexandre-dev/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://flavioalexandre.tech" target="_blank"><img src="https://img.shields.io/badge/-flavioalexandre.tech-%231ED48E?style=for-the-badge" alt="flavioalexandre.tech" /></a>
 ## My Tech Stack
 
 | Category | Technologies |
