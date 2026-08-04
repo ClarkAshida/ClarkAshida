@@ -3,7 +3,6 @@
 - 💻 Software Developer | Java | Spring Boot | TypeScript | React | Docker.
 - 📚 Pursuing a Bachelor's Degree in Information Technology at UFRN.
 - 🎓 Graduated as a Systems Development Technician at Senac RN.
-- ☕ Studying Java and DevOps.
 
 ## Where to find me
 
@@ -20,4 +19,4 @@
 
 ## Personal Interests
 
-Outside of coding, I enjoy following motorsports, building small electronics projects with ESP32 just for fun, going for a run and listening to good rock music.
+Outside of coding, I'm passionate about motorsports, building electronics projects just for fun, run and listen to good rock music.
