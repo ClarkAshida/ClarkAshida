@@ -1,6 +1,6 @@
 ## Hi, my name is <strong>Flávio Alexandre!</strong>
 
-- 💻 Software Developer | Java | Spring Boot | TypeScript | React | Docker.
+- 💻 Software Engineer | Java | Spring Boot | TypeScript | React | Docker | AWS.
 - 📚 Pursuing a Bachelor's Degree in Information Technology at UFRN.
 - 🎓 Graduated as a Systems Development Technician at Senac RN.
 
