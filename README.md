@@ -17,6 +17,12 @@
 | **Data & Messaging** | <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="30" height="30" alt="PostgreSQL" /></a> <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" height="30" alt="MongoDB" /></a> <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="30" height="30" alt="RabbitMQ" /></a> |
 | **Software Testing** | <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="30" height="30" alt="JUnit" /></a> <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="30" height="30" alt="Jest" /></a> <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" width="30" height="30" alt="Cypress" /></a> |
 
+## My Certifications
+
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/e9a14373540a465e838a5814d27728f2" target="_blank">
+  <img src="https://raw.githubusercontent.com/Preetham-103/AWS_Achievements/main/aws-certified-cloud-practitioner.png" width="130" alt="AWS Certified Cloud Practitioner" />
+</a>
+
 ## Personal Interests
 
 Outside of coding, I'm passionate about motorsports, building electronics projects just for fun, run and listen to good rock music.
