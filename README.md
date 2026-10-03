@@ -19,9 +19,54 @@
 
 ## My Certifications
 
-<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/e9a14373540a465e838a5814d27728f2" target="_blank">
-  <img src="https://raw.githubusercontent.com/Preetham-103/AWS_Achievements/main/aws-certified-cloud-practitioner.png" width="130" alt="AWS Certified Cloud Practitioner" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="170">
+      <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/e9a14373540a465e838a5814d27728f2">
+        <img
+          src="https://raw.githubusercontent.com/Preetham-103/AWS_Achievements/main/aws-certified-cloud-practitioner.png"
+          width="120"
+          alt="AWS Certified Cloud Practitioner"
+        />
+      </a>
+      <br><br>
+      <sub><b>AWS Certified Cloud Practitioner</b></sub>
+    </td>
+    <td align="center" width="170">
+      <img
+        src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob"
+        width="120"
+        alt="Google Cloud Generative AI Leader"
+      />
+      <br><br>
+      <sub><b>Google Cloud</b></sub>
+      <br>
+      <sub>Generative AI Leader</sub>
+    </td>
+    <td align="center" width="170">
+      <img
+        src="https://raw.githubusercontent.com/DanielCrema/oracle-certifications/main/oci-foundations-associate/OCI-foundations-associate-badge.png"
+        width="350"
+        alt="Oracle Cloud Infrastructure Foundations Associate"
+      />
+      <br>
+      <sub><b>Oracle Cloud Infrastructure</b></sub>
+      <br>
+      <sub>Foundations Associate</sub>
+    </td>
+    <td align="center" width="170">
+      <img
+        src="https://raw.githubusercontent.com/DanielCrema/oracle-certifications/main/ai-foundations-associate/AI-foundations-associate-badge.png"
+        width="350"
+        alt="Oracle Cloud Infrastructure AI Foundations Associate"
+      />
+      <br>
+      <sub><b>Oracle Cloud Infrastructure</b></sub>
+      <br>
+      <sub>AI Foundations Associate</sub>
+    </td>
+  </tr>
+</table>
 
 ## Personal Interests
 
